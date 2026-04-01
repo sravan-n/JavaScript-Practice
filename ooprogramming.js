@@ -63,4 +63,4 @@ function manager() {
 }
 
 console.log(intern());
-console.log(manager())
+console.log(manager());
