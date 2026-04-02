@@ -23,7 +23,7 @@ for (var key of Object.keys(person)) {
     console.log(` key is ${key} and value is ${person[key]}`)
 }
 
-// for ... in loops through objects keys
+// for ... in loops through objects keys and iterates through protypes of object as well
 
 for (var x in person) {
     console.log(x)
